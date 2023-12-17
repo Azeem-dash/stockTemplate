@@ -1,0 +1,6 @@
+module Pods_PlantAppExploration_PlantAppExplorationTests {
+  umbrella header "Pods-PlantAppExploration-PlantAppExplorationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

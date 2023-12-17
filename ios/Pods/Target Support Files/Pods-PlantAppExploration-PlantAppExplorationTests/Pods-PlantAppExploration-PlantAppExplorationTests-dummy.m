@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_PlantAppExploration_PlantAppExplorationTests : NSObject
+@end
+@implementation PodsDummy_Pods_PlantAppExploration_PlantAppExplorationTests
+@end
